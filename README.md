@@ -1,9 +1,9 @@
 # ABC-Computer-Sale
 
 
-# http://pointofsale11.somee.com/LogIn.aspx
+### http://pointofsale11.somee.com/LogIn.aspx
 
-# Name     : admin
-# password :admin
+Name     : admin
+password : admin
 
 
