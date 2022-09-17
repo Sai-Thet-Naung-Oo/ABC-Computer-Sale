@@ -3,7 +3,7 @@
 
 ### http://pointofsale11.somee.com/LogIn.aspx
 
-Name     : admin
+Name     : admin <br>
 password : admin
 
 
